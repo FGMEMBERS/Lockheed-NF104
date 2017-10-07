@@ -49,7 +49,7 @@
     <help>
       <title>Lockheed F-104C Starfighter</title>
       <key>
-        <name>d</name>
+        <name>c</name>
         <desc>Open/Close canopy</desc>
       </key>
       <key>
@@ -61,7 +61,7 @@
         <desc>Jettison drag chute</desc>
       </key>
       <key>
-        <name>c</name>
+        <name>m</name>
         <desc>Toggle nose wheel steering (NWS)</desc>
       </key>
       <key>
