@@ -11,6 +11,13 @@
       <cockpit type="int">3</cockpit>
       <model type="int">5</model>
     </rating>
+        <previews>
+            <preview>
+                <type>exterior</type>
+                <splash type="bool">true</splash>
+                <path>Previews/f104C-1.png</path>
+            </preview>
+        </previews>
 <!--
     <model>
       <path>Aircraft/Lockheed-NF104/Models/F-104C.xml</path>
