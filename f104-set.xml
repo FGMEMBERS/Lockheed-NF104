@@ -11,6 +11,25 @@
       <cockpit type="int">3</cockpit>
       <model type="int">5</model>
     </rating>
+    <tags>
+          <tag>fighter</tag>
+          <tag>lockheed</tag>
+          <tag>1960s</tag>
+          <tag>1970s</tag>
+          <tag>1980s</tag>
+          <tag>1990s</tag>
+          <tag>2000s</tag>
+          <tag>retractable-gear</tag>
+          <tag>supersonic</tag>
+          <tag>t-tail</tag>
+          <tag>jet</tag>
+          <tag>afterburner</tag>
+          <tag>single-engine</tag>
+	  <tag>coldwar</tag>
+	  <tag>vietnam</tag>
+	  <tag>ifr</tag>
+	  <tag>hud</tag>
+    </tags>
 <!--
     <model>
       <path>Aircraft/Lockheed-NF104/Models/F-104C.xml</path>
