@@ -11,13 +11,25 @@
       <cockpit type="int">3</cockpit>
       <model type="int">5</model>
     </rating>
-        <previews>
-            <preview>
-                <type>exterior</type>
-                <splash type="bool">true</splash>
-                <path>Previews/f104C-1.png</path>
-            </preview>
-        </previews>
+    <tags>
+          <tag>fighter</tag>
+          <tag>lockheed</tag>
+          <tag>1960s</tag>
+          <tag>1970s</tag>
+          <tag>1980s</tag>
+          <tag>1990s</tag>
+          <tag>2000s</tag>
+          <tag>retractable-gear</tag>
+          <tag>supersonic</tag>
+          <tag>t-tail</tag>
+          <tag>jet</tag>
+          <tag>afterburner</tag>
+          <tag>single-engine</tag>
+	  <tag>coldwar</tag>
+	  <tag>vietnam</tag>
+	  <tag>ifr</tag>
+	  <tag>hud</tag>
+    </tags>
 <!--
     <model>
       <path>Aircraft/Lockheed-NF104/Models/F-104C.xml</path>
@@ -28,21 +40,7 @@
 -->
   </sim>
 
- <systems>
-  <refuel>
-   <type>probe</type>
-   <serviceable type="bool">true</serviceable>
-   <max-fuel-transfer-lbs-min>6000</max-fuel-transfer-lbs-min>
-   <offset-x-m>0</offset-x-m>
-   <offset-y-m>0</offset-y-m>
-   <offset-z-m>0</offset-z-m>
-  </refuel>
- </systems>
-
   <nasal>
-  <aar>
-   <file>Aircraft/Generic/aar.nas</file>
-  </aar>
     <Lockheed-NF104>
       <file>Aircraft/Lockheed-NF104/Nasal/tire-rotation.nas</file>
       <file>Aircraft/Lockheed-NF104/Nasal/tire-smoke.nas</file>
